@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:sunday_mall/views/screens/onboarding/onboading_screen.dart';
 
 void main() {
+  /// Test
   runApp(const MyApp());
 }
 
