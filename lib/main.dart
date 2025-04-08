@@ -4,7 +4,7 @@ import 'package:sunday_mall/views/screens/onboarding/onboading_screen.dart';
 void main() {
   runApp(const MyApp());
 }
-
+// tet
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
